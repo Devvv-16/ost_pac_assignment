@@ -120,25 +120,28 @@
 
 ## 3. Open Source Contribution
 
-### **Phase 1: Repository Forking**
-- **Objective:** Demonstrate the process of creating a personal, modifiable copy of a public upstream project.
-- **Upstream Project:** [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife)
+### **Phase 1: Strategic Upstream Selection and Forking**
+- **Objective:** Demonstrate the ability to identify a community-driven repository and prepare a local development environment.
+- **Project Context:** Selected the **[octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife)** project, a globally recognized standard for simulating Open Source contribution workflows.
+- **Execution:** Successfully executed a **Fork** operation, creating a personal instance of the repository under the account `Devvv-16/Spoon-Knife`.
 
-### **Phase 2: Upstream Improvement (Typo Fix)**
-- **Objective:** Contribute a meaningful documentation enhancement to the project.
+### **Phase 2: Project Enhancement (Documentation Correction)**
+- **Objective:** Apply targeted improvements to the projects root assets to improve clarity for the developer community.
 - **Workflow:**
-  1.  Identified a textual error in the project's root `README.md`.
-  2.  Committed a corrective update directly to the fork's primary branch.
+  1.  Identified a specific textual discrepancy within the root **`README.md`** file.
+  2.  Performed a direct edit to rectify the typo, ensuring higher documentation quality.
+  3.  Committed the changes directly to the primary branch with a descriptive commit message.
 
-### **Phase 3: Public Reporting (Issue Raising)**
-- **Objective:** Communicate findings and proposed changes to the project maintainers.
+### **Phase 3: Community Communication (Issue Management)**
+- **Objective:** Engage with the project's maintenance ecosystem by raising a formal issue to document the contribution.
 - **Workflow:**
-  1.  Leveraged the GitHub Issues functionality to document the correction.
-  2.  Ensured the issue description clearly detailed the scope of the fix.
+  1.  Navigated to the project's **Issues** management interface.
+  2.  Drafted and submitted a formal Issue titled **`"Documentation Refinement: README Typo Correction"`**.
+  3.  Detailed the specific rationale for the change to ensure transparency in the contribution process.
 
 ### **Phase 4: Output Verification**
-- **Screenshot 1:** [PASTE SCREENSHOT OF YOUR FORKED REPO PAGE HERE]
-- **Screenshot 2:** [PASTE SCREENSHOT OF THE ISSUE YOU RAISED HERE]
+- **Verification Point 1 (Forked Repository):** [PASTE SCREENSHOT OF YOUR Devvv-16/Spoon-Knife PAGE HERE]
+- **Verification Point 2 (Raised Issue):** [PASTE SCREENSHOT OF YOUR SUBMITTED ISSUE HERE]
 
 ---
 
